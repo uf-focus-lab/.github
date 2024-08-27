@@ -6,15 +6,47 @@ Our research areas are **computer vision** and **computational photography**.
 
 ## Recent News
 
-+ `08/20`	Four new graduate students join FOCUS lab: Welcome: Mike, Dexter, Jacob and Merhan!
-+ `08/18`	New paper accepted to IROS! FoveaCam++: Systems-Level Advances for Long Range Multi-Object High-Resolution Tracking.
-+ `08/15`	Dr. Koppal was awarded a Teaching award by the UF ECE department.
-+ `07/01`	Dr. Koppal gives talks at STR and Draper Lab in the Boston Area.
-+ `06/05`	New publication with our collaborators in Dr. Zare’s lab on hyperspectral images of roots!
-+ `03/24`	New papers in SPIE and in ECTC. Congrats to our collaborators in FICS and the Navy’s NAWCAD lab.
-+ `01/29`	New publication in IEEE Transactions on Robotics! Congrats to Dr. Wang and our collaborators at UB.
-+ `01/03`	FOCUS lab won a DURIP award for Electro‐Optical Sensor Prototype with Phase/Amplitude Analysis. Happy New Year!
-+ [*More on our website*](https://focus.ece.ufl.edu/news/)
+<table width="100%">
+<tbody>
+<tr>
+<td align="left">08/20</td>
+<td align="left">Four new graduate students join FOCUS lab: Welcome: Mike, Dexter, Jacob and Merhan!</td>
+</tr>
+<tr>
+<td align="left">08/18</td>
+<td align="left">New paper accepted to IROS! FoveaCam++: Systems-Level Advances for Long Range Multi-Object High-Resolution Tracking.</td>
+</tr>
+<tr>
+<td align="left">08/15</td>
+<td align="left">Dr. Koppal was awarded a Teaching award by the UF ECE department.</td>
+</tr>
+<tr>
+<td align="left">07/01</td>
+<td align="left">Dr. Koppal gives talks at STR and Draper Lab in the Boston Area.</td>
+</tr>
+<tr>
+<td align="left">06/05</td>
+<td align="left">New publication with our collaborators in Dr. Zare's lab on hyperspectral images of roots!</td>
+</tr>
+<tr>
+<td align="left">03/24</td>
+<td align="left">New papers in SPIE and in ECTC. Congrats to our collaborators in FICS and the Navy's
+NAWCAD lab.</td>
+</tr>
+<tr>
+<td align="left">01/29</td>
+<td align="left">New publication in IEEE Transactions on Robotics! Congrats to Dr. Wang and our
+collaborators at UB.</td>
+</tr>
+<tr>
+<td align="left">01/03</td>
+<td align="left">FOCUS lab won a DURIP award for Electro‐Optical Sensor Prototype with Phase/Amplitude
+Analysis. Happy New Year!</td>
+</tr>
+</tbody>
+</table>
+
+[*More on our website*](https://focus.ece.ufl.edu/news/)
 
 ## Latest Publications
 
