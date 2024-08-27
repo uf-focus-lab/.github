@@ -62,7 +62,7 @@ Analysis. Happy New Year!</td>
 > Spencer J. Chang, Ritesh Chowdhry, Yangyang Song, Tomas Mejia, Anna Hampton, Shelby Kucharski, T.M. Sazzad, Yuxuan Zhang, <b>S. J. Koppal</b>, Chris H. Wilson, Stefan Gerber, Barry Tillman, Marcio F.R. Resende, William M. Hammond, Alina Zare \
 > <a href="https://focus.ece.ufl.edu/wp-content/uploads/2024/08/HyperPRI.pdf" target="_blank" rel="noopener">PDF</a> | Computers and Electronics in Agriculture
 
-+ SpectralZoom: Efficient Segmentation with an Adaptive Hyperspectral Camera
+#### SpectralZoom: Efficient Segmentation with an Adaptive Hyperspectral Camera
 > Jackson Arnold, Sophia Rossi, Chloe Petrosino, Ethan Mitchell, <b>S. J. Koppal</b> \
 > <a href="https://arxiv.org/pdf/2406.04287" target="_blank" rel="noopener">PDF</a> | arXiv
 
