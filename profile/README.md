@@ -57,7 +57,7 @@ Analysis. Happy New Year!</td>
 
 #### FoveaCam++: Systems-Level Advances for Long Range Multi-Object High-Resolution Tracking
 > Yuxuan Zhang and <b>S. J. Koppal</b> \
-> <a href="https://focus.ece.ufl.edu/wp-content/uploads/2024/08/IROS-FoveaCamPlus.pdf" target="_blank" rel="noopener">PDF</a> | IROS 2024
+> <a href="https://focus.ece.ufl.edu/wp-content/uploads/2024/08/IROS-FoveaCamPlus.pdf" target="_blank" rel="noopener">PDF</a> | <a href="https://www.youtube.com/watch?v=GR6qlshd_Xw" target="_blank" rel="noopener">Video</a> | IROS 2024
 
 #### HyperPRI: A dataset of hyperspectral images for underground plant root study
 > Spencer J. Chang, Ritesh Chowdhry, Yangyang Song, Tomas Mejia, Anna Hampton, Shelby Kucharski, T.M. Sazzad, Yuxuan Zhang, <b>S. J. Koppal</b>, Chris H. Wilson, Stefan Gerber, Barry Tillman, Marcio F.R. Resende, William M. Hammond, Alina Zare \
