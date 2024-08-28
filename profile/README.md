@@ -11,7 +11,7 @@ Our research areas are _**computer vision**_ and _**computational photography**_
 <tbody>
 <tr>
 <td align="left">08/20</td>
-<td align="left">Four new graduate students join FOCUS lab: Welcome: Mike, Dexter, Jacob and Merhan!</td>
+<td align="left">Four new graduate students join FOCUS lab: Welcome: Michael, Dexter, Jacob and Merhan!</td>
 </tr>
 <tr>
 <td align="left">08/18</td>
