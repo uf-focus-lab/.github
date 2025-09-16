@@ -5,44 +5,37 @@ Our research areas are _**computer vision**_ and _**computational photography**_
 
 [**Our Team**](https://focus.ece.ufl.edu/team/)
 
-## Recent News
+## Recent News (2025)
 
 <table width="100%">
 <tbody>
 <tr>
-<td align="left">08/20</td>
-<td align="left">Four new graduate students join FOCUS lab: Welcome: Michael, Dexter, Jacob and Merhan!</td>
+<td align="left">09/01</td>
+<td align="left">FOCUS Lab will support a research experience for undergraduates program for eight students in 2025-26. Application due Sept 15th 2025. Please email Dr. Koppal for more information.</td>
 </tr>
 <tr>
-<td align="left">08/18</td>
-<td align="left">New paper accepted to IROS! FoveaCam++: Systems-Level Advances for Long Range Multi-Object High-Resolution Tracking.</td>
+<td align="left">08/08</td>
+<td align="left">Dr. Koppal will be an area chair for CVPR 2026</td>
 </tr>
 <tr>
-<td align="left">08/15</td>
-<td align="left">Dr. Koppal was awarded a Teaching award by the UF ECE department.</td>
+<td align="left">07/21</td>
+<td align="left">ICCP 2025 in Toronto! Dr. Koppal is a PAMI area chair for ICCP 2025.</td>
 </tr>
 <tr>
-<td align="left">07/01</td>
-<td align="left">Dr. Koppal gives talks at STR and Draper Lab in the Boston Area.</td>
+<td align="left">05/23</td>
+<td align="left">Our IoT4Ag based collaboration with UPenn for robotic monitoring of colorimetric sensors was presented at ICRA workshop for <a href="https://ag-tech-icra2025.com/">precision agriculture</a>.</td>
 </tr>
 <tr>
-<td align="left">06/05</td>
-<td align="left">New publication with our collaborators in Dr. Zare's lab on hyperspectral images of roots!</td>
+<td align="left">05/19</td>
+<td align="left">Dr. Koppal gave a talk at Vanderbilt University's Computer Science department on Foveated Imaging for Robotics.</td>
 </tr>
 <tr>
-<td align="left">03/24</td>
-<td align="left">New papers in SPIE and in ECTC. Congrats to our collaborators in FICS and the Navy's
-NAWCAD lab.</td>
+<td align="left">03/11</td>
+<td align="left">Our work on Physics-Informed Neural Networks for SAM Image Enhancement for semiconductor inspection was accepted to ECTC. Congrats to our collaborators in Dr. Asadi's lab.</td>
 </tr>
 <tr>
-<td align="left">01/29</td>
-<td align="left">New publication in IEEE Transactions on Robotics! Congrats to Dr. Wang and our
-collaborators at UB.</td>
-</tr>
-<tr>
-<td align="left">01/03</td>
-<td align="left">FOCUS lab won a DURIP award for Electro‐Optical Sensor Prototype with Phase/Amplitude
-Analysis. Happy New Year!</td>
+<td align="left">01/25</td>
+<td align="left">New Ph.D. student Thiago Cuevas joins the FOCUS lab. Welcome!</td>
 </tr>
 </tbody>
 </table>
