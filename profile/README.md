@@ -10,7 +10,7 @@ Our research areas are _**computer vision**_ and _**computational photography**_
 <table width="100%">
 <tbody>
 <tr>
-<td align="left">011/17</td>
+<td align="left">11/17</td>
 <td align="left">Congrats to Michael Tomadakis and his FOCUS lab co-authors on the accepted WACV 2026 paper "Augmenting with NeRFs: Fast Relocalization on Densified Datasets".</td>
 </tr>
 <tr>
