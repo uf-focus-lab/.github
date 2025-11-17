@@ -10,6 +10,10 @@ Our research areas are _**computer vision**_ and _**computational photography**_
 <table width="100%">
 <tbody>
 <tr>
+<td align="left">011/17</td>
+<td align="left">Congrats to Michael Tomadakis and his FOCUS lab co-authors on the accepted WACV 2026 paper "Augmenting with NeRFs: Fast Relocalization on Densified Datasets".</td>
+</tr>
+<tr>
 <td align="left">09/01</td>
 <td align="left">FOCUS Lab will support a research experience for undergraduates program for eight students in 2025-26. Application due Sept 15th 2025. Please email Dr. Koppal for more information.</td>
 </tr>
